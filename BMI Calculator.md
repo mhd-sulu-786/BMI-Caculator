@@ -28,7 +28,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Your Name - your.email@example.com
+Your Name - muhammedsulaimant162@gmail.com
 
 Project Link
 https://github.com/mhd-sulu-786/bmi-calculator
